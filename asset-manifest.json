@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Balaji-Rishi/balaji-sekar-portfolio.git/static/css/main.bf538fe7.css",
+    "main.js": "/Balaji-Rishi/balaji-sekar-portfolio.git/static/js/main.0d421aa0.js",
+    "static/media/HeroImage.png": "/Balaji-Rishi/balaji-sekar-portfolio.git/static/media/HeroImage.7009b20ac7543ba136d1.png",
+    "index.html": "/Balaji-Rishi/balaji-sekar-portfolio.git/index.html",
+    "main.bf538fe7.css.map": "/Balaji-Rishi/balaji-sekar-portfolio.git/static/css/main.bf538fe7.css.map",
+    "main.0d421aa0.js.map": "/Balaji-Rishi/balaji-sekar-portfolio.git/static/js/main.0d421aa0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.0d421aa0.js"
+  ]
+}
